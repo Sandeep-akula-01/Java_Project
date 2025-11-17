@@ -1,4 +1,4 @@
-#Docker multistage_file
+#multistage Dockerfile for JAVA_Project
 
 FROM maven AS buildstage
 RUN mkdir /opt/Java_Project
